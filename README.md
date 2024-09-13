@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>My Affiliate Marketing Site</h1>
+        <h1>GET IT</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
